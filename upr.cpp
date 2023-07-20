@@ -8,7 +8,7 @@ int main()
 
     string sent;
     string result;
-    cout << "Введите строку: " ;
+    cout << "Введите строку: ";
     getline(cin, sent);
     string word;
     int SIZE = size(sent);
