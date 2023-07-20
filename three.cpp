@@ -22,4 +22,5 @@ int main()
 
     bool res = isvowel(ch);
     cout << res << endl;
+    
 }
