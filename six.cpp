@@ -27,7 +27,7 @@ string secWord(string a)
 
 int main()
 {
-    cout << "Enter a sentense: "  ;
+    cout << "Enter a sentense: ";
     string sent;
     getline(cin, sent);
     string res = secWord(sent);
