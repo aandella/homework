@@ -31,5 +31,12 @@ int main()
     string sent;
     getline(cin, sent);
     string res = secWord(sent);
-    cout << res << endl;
+    if (res == "")
+    {
+        cout << "END" << endl;
+    }
+    else
+    {
+        cout << res << endl;
+    }
 }
