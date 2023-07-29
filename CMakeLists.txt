@@ -1,0 +1,10 @@
+project(sst_tasks)
+
+add_executable(task1 upr.cpp)
+add_executable(task2 twos.cpp)
+add_executable(task3 kkkk.cpp)
+add_executable(task4 five.cpp)
+add_executable(task5 nine.cpp)
+add_executable(task6 seven.cpp)
+add_executable(task7 six.cpp)
+add_executable(task8 three.cpp)
